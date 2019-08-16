@@ -1,6 +1,5 @@
 # TabPy_scripts-Google-API
 
-
 **1. Calculating Distance Between Coordinate Points**
 
 googlemaps_distance.py
